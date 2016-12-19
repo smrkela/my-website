@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+# Orig diff files
+*.orig
+
 # Runtime data
 pids
 *.pid
