@@ -2,6 +2,6 @@
 
 This is a really awesome demo website
 
-Edit on example branch
-
 No editing on update-readme branch
+
+Updated localy.
